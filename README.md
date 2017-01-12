@@ -1,0 +1,2 @@
+# newsArticle
+news article
